@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 20px;
+}
+
+.mystyle1, .st2, .v1 {
+  border: 2px solid green;
+  border-radius: 8px;
+  padding: 20px;
+  min-width: 200px;
+  text-align: left;
+  background-color: #fdfdfd;
+  box-shadow: 0 0 8px rgba(0, 128, 0, 0.1);
+}
+
+h1 {
+  border-bottom: 2px solid green;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h3, h4 {
+  margin: 6px 0;
+}

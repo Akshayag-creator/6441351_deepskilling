@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.mystyle1, .st2, .v1 {
+  border-left: 4px solid green;
+  padding: 10px 20px;
+  min-width: 250px;
+  text-align: left;
+}
